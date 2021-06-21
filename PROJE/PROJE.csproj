@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A02C1258-6032-41A3-9737-7277FBB275CD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PROJE</RootNamespace>
+    <AssemblyName>PROJE</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.6.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.6.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar, Version=2.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.2.0.0\lib\net35-Client\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="ClosedXML, Version=0.95.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ClosedXML.0.95.4\lib\net46\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.7.2.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.2.7.2\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelNumberFormat, Version=1.0.10.0, Culture=neutral, PublicKeyToken=23c6f5d73be07eca, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelNumberFormat.1.0.10\lib\net20\ExcelNumberFormat.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=5.15.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.15.3\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.2\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.Primitives.4.0.1\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Packaging, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Packaging.4.0.0\lib\net46\System.IO.Packaging.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WinFormAnimation, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.3.0.0\lib\net35-Client\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Genel\Acilis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Genel\Acilis.Designer.cs">
+      <DependentUpon>Acilis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adapter\Person.cs" />
+    <Compile Include="Yönetici\Chat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yönetici\Chat.Designer.cs">
+      <DependentUpon>Chat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Genel\GizlilikPolitikasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Genel\GizlilikPolitikasi.Designer.cs">
+      <DependentUpon>GizlilikPolitikasi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBox\Message.cs" />
+    <Compile Include="MessageBox\BoxMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageBox\BoxMessage.Designer.cs">
+      <DependentUpon>BoxMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBox\YesNoMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageBox\YesNoMessage.Designer.cs">
+      <DependentUpon>YesNoMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yönetici\AdminKontrol.cs" />
+    <Compile Include="Genel\AnaEkran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Genel\AnaEkran.Designer.cs">
+      <DependentUpon>AnaEkran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\MernisServiceReference\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Ürün\Database.cs" />
+    <Compile Include="Ürün\FiyatDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ürün\FiyatDuzenle.Designer.cs">
+      <DependentUpon>FiyatDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Genel\Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Genel\Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adapter\MernisServiceAdapter.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Yönetici\SifremiUnuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yönetici\SifremiUnuttum.Designer.cs">
+      <DependentUpon>SifremiUnuttum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ürün\UrunAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ürün\UrunAl.Designer.cs">
+      <DependentUpon>UrunAl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ürün\UrunBilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ürün\UrunBilgileri.Designer.cs">
+      <DependentUpon>UrunBilgileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ürün\UrunEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ürün\UrunEkle.Designer.cs">
+      <DependentUpon>UrunEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ürün\UrunSat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ürün\UrunSat.Designer.cs">
+      <DependentUpon>UrunSat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ürün\UrunSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ürün\UrunSil.Designer.cs">
+      <DependentUpon>UrunSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yönetici\YoneticiEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yönetici\YoneticiEkle.Designer.cs">
+      <DependentUpon>YoneticiEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yönetici\YoneticiSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yönetici\YoneticiSil.Designer.cs">
+      <DependentUpon>YoneticiSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ürün\ZRaporu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ürün\ZRaporu.Designer.cs">
+      <DependentUpon>ZRaporu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Genel\Acilis.resx">
+      <DependentUpon>Acilis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Genel\AnaEkran.resx">
+      <DependentUpon>AnaEkran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yönetici\Chat.resx">
+      <DependentUpon>Chat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Genel\GizlilikPolitikasi.resx">
+      <DependentUpon>GizlilikPolitikasi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBox\BoxMessage.resx">
+      <DependentUpon>BoxMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBox\YesNoMessage.resx">
+      <DependentUpon>YesNoMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yönetici\YoneticiSil.resx">
+      <DependentUpon>YoneticiSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ürün\ZRaporu.resx">
+      <DependentUpon>ZRaporu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ürün\FiyatDuzenle.resx">
+      <DependentUpon>FiyatDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Genel\Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Yönetici\SifremiUnuttum.resx">
+      <DependentUpon>SifremiUnuttum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ürün\UrunAl.resx">
+      <DependentUpon>UrunAl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ürün\UrunBilgileri.resx">
+      <DependentUpon>UrunBilgileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ürün\UrunEkle.resx">
+      <DependentUpon>UrunEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ürün\UrunSat.resx">
+      <DependentUpon>UrunSat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ürün\UrunSil.resx">
+      <DependentUpon>UrunSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yönetici\YoneticiEkle.resx">
+      <DependentUpon>YoneticiEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Connected Services\MernisServiceReference\KPSPublic.wsdl" />
+    <None Include="Connected Services\MernisServiceReference\PROJE.MernisServiceReference.TCKimlikNoDogrulaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\MernisServiceReference\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\MernisServiceReference\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\MernisServiceReference\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\MernisServiceReference\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stockLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\briefcase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exchange-alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cash-register.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file-contract.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-out-alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart-arrow-down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,272 @@
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\bin\Debug\CircularProgressBar.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\bin\Debug\WinFormAnimation.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\bin\Debug\CircularProgressBar.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\bin\Debug\WinFormAnimation.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\obj\Debug\PROJE.csprojAssemblyReference.cache
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\obj\Debug\PROJE.AnaEkran.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\obj\Debug\PROJE.csproj.CopyComplete
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\obj\Debug\PROJE.pdb
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\obj\Debug\PROJE.Acilis.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\obj\Debug\PROJE.UrunBilgileri.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\obj\Debug\PROJE.Giris.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\obj\Debug\PROJE.SifremiUnuttum.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\obj\Debug\PROJE.UrunEkle.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\obj\Debug\PROJE.UrunSil.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\obj\Debug\PROJE.FiyatDuzenle.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\NEW-PROJE\PROJE\PROJE\obj\Debug\PROJE.YoneticiEkle.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\CircularProgressBar.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\WinFormAnimation.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\CircularProgressBar.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\WinFormAnimation.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.csprojAssemblyReference.cache
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.Acilis.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.AnaEkran.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.FiyatDuzenle.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.Giris.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.SifremiUnuttum.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.UrunBilgileri.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.UrunEkle.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.UrunSil.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.YoneticiEkle.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.csproj.CopyComplete
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.pdb
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.YoneticiSil.resources
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\CircularProgressBar.dll
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\WinFormAnimation.dll
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\CircularProgressBar.xml
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\WinFormAnimation.xml
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.Acilis.resources
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.AnaEkran.resources
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.GizlilikPolitikasi.resources
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.YoneticiSil.resources
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.FiyatDuzenle.resources
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.Giris.resources
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.SifremiUnuttum.resources
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.UrunBilgileri.resources
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.UrunEkle.resources
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.UrunSil.resources
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.YoneticiEkle.resources
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.csproj.CopyComplete
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.pdb
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.csproj.ResolveComReference.cache
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.GizlilikPolitikasi.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.UrunAl.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.UrunSat.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.ZRaporu.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.BoxMessage.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.YesNoMessage.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.csprojAssemblyReference.cache
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.csproj.ResolveComReference.cache
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.Acilis.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.AnaEkran.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.GizlilikPolitikasi.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.BoxMessage.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.YesNoMessage.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.YoneticiSil.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.ZRaporu.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.FiyatDuzenle.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.Giris.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.SifremiUnuttum.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.UrunAl.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.UrunBilgileri.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.UrunEkle.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.UrunSat.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.UrunSil.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.YoneticiEkle.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.pdb
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\CircularProgressBar.dll
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\WinFormAnimation.dll
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\CircularProgressBar.xml
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\WinFormAnimation.xml
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.csproj.CopyComplete
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\ClosedXML.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\ExcelNumberFormat.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\System.IO.Packaging.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\ClosedXML.pdb
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\ClosedXML.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\ExcelNumberFormat.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\itextsharp.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\itextsharp.xml
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\ClosedXML.dll
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\itextsharp.dll
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\System.IO.Packaging.dll
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\ClosedXML.pdb
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\ClosedXML.xml
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\bin\Debug\itextsharp.xml
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.BoxMessage.resources
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.YesNoMessage.resources
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.ZRaporu.resources
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.UrunAl.resources
+C:\Users\Asus\Desktop\BM102 PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.UrunSat.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\ClosedXML.dll
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\itextsharp.dll
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\System.IO.Packaging.dll
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\ClosedXML.pdb
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\ClosedXML.xml
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\itextsharp.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\CircularProgressBar.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\ClosedXML.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\ExcelNumberFormat.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\itextsharp.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\System.IO.Packaging.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\WinFormAnimation.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\CircularProgressBar.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\ClosedXML.pdb
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\ClosedXML.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\ExcelNumberFormat.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\itextsharp.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\WinFormAnimation.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.csprojAssemblyReference.cache
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.csproj.ResolveComReference.cache
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.Acilis.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.AnaEkran.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.GizlilikPolitikasi.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.BoxMessage.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.YesNoMessage.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.YoneticiSil.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.ZRaporu.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.FiyatDuzenle.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.Giris.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.SifremiUnuttum.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.UrunAl.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.UrunBilgileri.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.UrunEkle.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.UrunSat.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.UrunSil.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.YoneticiEkle.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.csproj.CopyComplete
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.pdb
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\PROJE\obj\Debug\PROJE.Chat.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\obj\Debug\PROJE.Chat.resources
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\obj\Debug\PROJE.Chat.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\MetroFramework.Design.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\MetroFramework.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\PROJE\BM102-PROJE\PROJE\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\MetroFramework.Design.dll
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\MetroFramework.dll
+C:\Users\Emre\Desktop\BM102-PROJE\PROJE\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\PROJE.exe
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\PROJE.pdb
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\CircularProgressBar.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\ClosedXML.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\ExcelNumberFormat.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\itextsharp.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\MetroFramework.Design.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\MetroFramework.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\System.IO.Packaging.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\WinFormAnimation.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\CircularProgressBar.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\ClosedXML.pdb
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\ClosedXML.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\ExcelNumberFormat.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\itextsharp.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\WinFormAnimation.xml
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.csprojAssemblyReference.cache
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.csproj.ResolveComReference.cache
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.Acilis.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.AnaEkran.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.Chat.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.GizlilikPolitikasi.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.BoxMessage.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.YesNoMessage.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.YoneticiSil.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.ZRaporu.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.FiyatDuzenle.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.Giris.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.SifremiUnuttum.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.UrunAl.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.UrunBilgileri.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.UrunEkle.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.UrunSat.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.UrunSil.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.YoneticiEkle.resources
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.csproj.CopyComplete
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.exe
+C:\Users\İÇİMİ DEMİRAĞ\OneDrive\Masaüstü\DENEMELER\YEDEK-PROJE\STOCKIFY\PROJE\obj\Debug\PROJE.pdb
